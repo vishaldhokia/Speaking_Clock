@@ -1,1 +1,6 @@
 streamlit
+gtts
+import os
+playsound
+tempfile
+base64
